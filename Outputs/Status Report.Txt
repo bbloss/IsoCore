@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [IsoCore.PrjPcb]
+   Generated File[IsoCore_Main.GTL]
+   Generated File[IsoCore_Main.G1]
+   Generated File[IsoCore_Main.G2]
+   Generated File[IsoCore_Main.GBL]
+   Generated File[IsoCore_Main.GTO]
+   Generated File[IsoCore_Main.GTS]
+   Generated File[IsoCore_Main.GBS]
+   Generated File[IsoCore_Main.GBO]
+   Generated File[IsoCore_Main.Outline]
+   Generated File[IsoCore_Main.RUL]
+   Generated File[IsoCore_Main.EXTREP]
+   Generated File[IsoCore_Main.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 5:55:15 PM On 9/15/2018

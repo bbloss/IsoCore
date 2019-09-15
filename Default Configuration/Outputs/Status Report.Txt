@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:56:23 AM On 9/11/2018
+
+Output: BOM_PartType
+Type  : BOM
+From  : Variant [[No Variations]] of Project [IsoCore.PrjPcb]
+   Generated File[BOM_PartType-IsoCore.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:56:45 AM On 9/11/2018
